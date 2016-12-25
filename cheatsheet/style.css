@@ -11,7 +11,7 @@ h2 {
   padding-top: 1em;
 
     color: #e81c4f;
-  
+
 }
 h1,
 h2,
@@ -24,4 +24,7 @@ pre {
   background: #f5f7f9;
   border-bottom: 1px solid #d8dee9;
   color: #a7adba;
+}
+iframe {
+  max-width: 100%;
 }
