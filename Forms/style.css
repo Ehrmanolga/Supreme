@@ -1,0 +1,23 @@
+input[type=text], input[type=textarea], input[type=radio]  {
+  display:block;
+  border: 2px black solid;
+  background: whitesmoke;
+}
+
+input[type=submit] {
+  background: green;
+  width: 200px;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  height: 50px;
+}
+
+input[type=reset] {
+  background: green;
+  width: 200px;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  height: 50px;
+}
